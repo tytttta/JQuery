@@ -309,7 +309,7 @@ jQuery 提供多个处理尺寸的重要方法：
 
 以下是jQuery尺寸图片：
 
-![jQuery尺寸]()
+![jQuery尺寸](https://github.com/tytttta/JQuery/blob/master/jquery%20%E5%B0%BA%E5%AF%B8.png)
 
 ## 5.1 jQuery width() 和 height() 方法
 width() 方法设置或返回元素的宽度（不包括内边距、边框或外边距）。
